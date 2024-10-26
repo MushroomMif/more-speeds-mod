@@ -35,5 +35,6 @@ Here is the comparison between modded speed values and vanilla
 
 # How to use it
 Install the [AOH3 Fabric Loader](https://github.com/MushroomMif/aoh3-fabric-loader)
-if you haven't yet and then just download the last release and put it to 
-your `mods` directory
+if you haven't yet and then just download `more-speeds-mod.jar`
+from [a latest release](https://github.com/MushroomMif/more-speeds-mod/releases/latest) 
+and put it to your `mods` directory
