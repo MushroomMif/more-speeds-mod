@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "morespeeds",
+  "version": "1.0",
+  "name": "More Speeds Mod",
+  "description": "This mod increases game speed count from 5 to 10",
+  "authors": [
+    "MushroomMif"
+  ],
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [
+    "morespeeds.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.7",
+    "aoh3": ">=1.2",
+    "java": ">=8"
+  }
+}
