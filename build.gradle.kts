@@ -4,6 +4,7 @@ plugins {
 
 dependencies {
     implementation(files("../libs/aoh3.jar"))
+    implementation(files("../libs/aoh3-fabric-api.jar"))
     implementation(files("../libs/fabric-loader-0.16.7-fat.jar"))
     implementation(files("../libs/gson-2.11.0.jar"))
     implementation(files("../libs/guava-21.0.jar"))
