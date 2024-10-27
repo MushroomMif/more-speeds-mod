@@ -8,7 +8,11 @@
     "MushroomMif"
   ],
   "environment": "*",
-  "entrypoints": {},
+  "entrypoints": {
+    "main": [
+      "com.github.mushroommif.morespeeds.MoreSpeedsMod"
+    ]
+  },
   "mixins": [
     "morespeeds.mixins.json"
   ],

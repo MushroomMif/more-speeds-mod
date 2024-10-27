@@ -1,11 +1,14 @@
 More Speeds Mod
 =====
-This mod increases amount of game speeds from 5 to 10.
-Here is the comparison between modded speed values and vanilla 
-(the lower the value, the faster the time goes).
+This mod adds an ability to change amount of game speeds and their values.
+You can configure it in `config/more-speeds.json` file.
+There should be at least one value, all values should be positive, and
+they should be specified in descending order. 
+Bellow you can see the comparison between vanilla speed values and values
+from default mod config. The lower the value, the faster game time goes.
 
 <table>
-<tr><th>Vanilla</th><th>This mod</th></tr>
+<tr><th>Vanilla</th><th>Default mod config</th></tr>
 <tr><td>
 
 | Speed | Value |
