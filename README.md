@@ -1,3 +1,5 @@
+[🇷🇺 Русский](https://github.com/MushroomMif/more-speeds-mod/blob/master/RUSSIAN.md)
+-----
 More Speeds Mod
 =====
 This mod adds an ability to change amount of game speeds and their values.
