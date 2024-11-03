@@ -40,7 +40,8 @@ More Speeds Mod
 </td></tr> </table>
 
 # Как использовать этот мод
-Установите [AOH3 Fabric Loader](https://github.com/MushroomMif/aoh3-fabric-loader),
+Установите [AOH3 Fabric Loader](https://github.com/MushroomMif/aoh3-fabric-loader)
+и [AOH3 Fabric Api](https://github.com/MushroomMif/aoh3-fabric-api),
 если вы ещё не сделали это. Далее, просто скачайте файл `more-speeds-mod.jar`
 с [последнего релиза](https://github.com/MushroomMif/more-speeds-mod/releases/latest)
 и положите его в папку `mods` в файлах игры.

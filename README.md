@@ -40,6 +40,7 @@ from default mod config. The lower the value, the faster game time goes.
 
 # How to use it
 Install the [AOH3 Fabric Loader](https://github.com/MushroomMif/aoh3-fabric-loader)
+and [AOH3 Fabric Api](https://github.com/MushroomMif/aoh3-fabric-api)
 if you haven't yet and then just download `more-speeds-mod.jar`
 from [a latest release](https://github.com/MushroomMif/more-speeds-mod/releases/latest) 
 and put it to your `mods` directory
