@@ -1,6 +1,6 @@
 package com.github.mushroommif.morespeeds.mixin;
 
-import aoc.kingdoms.lukasz.jakowski.GameThreads.GameThread;
+import aoh.kingdoms.history.mainGame.GameThreads.GameThread;
 import com.github.mushroommif.morespeeds.MoreSpeedsMod;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
